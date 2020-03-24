@@ -1,0 +1,9 @@
+{
+    "name" : "apolinux/daemon" ,
+    "description" : "Daemon manager similar to unix system daemons ",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": { "Apolinux\\DaemonAdmin\\": "src/DaemonAdmin" }
+    }
+}
